@@ -14,6 +14,8 @@ Then you will have a conda environment named 'causal'. You can further activate 
 
 ## How to Use 
 
-We provide two examples running the test in `example_to_use,ipynb` and running the PC algorithm with DCT as the test in `example_to_use_pc.ipynb`. Our core algorithm is implemented at `causal_learn.causallearn.utils.DisTestUtil.py`.
+We provide two examples running the test in `example_to_use,ipynb` and running the PC algorithm with DCT as the test in `example_to_use_pc.ipynb`.
+
+Our core algorithm is implemented at `causal_learn.causallearn.utils.DisTestUtil.py`.
 
 
