@@ -1,9 +1,9 @@
 # DCT: A Conditional Independence Test in the Presence of Discretization
 This repository contains implementation for paper : **A Condiional Independence Test in the Presence of Discretization** \[[arXiv\]](https://arxiv.org/abs/2404.17644)
 
-DCT is a conditional independence test specifically designed for the scenario that only discretized version of variables available. Specifically, DCT tries to recover the covariance matrix $\Sigma$ of the original continous variables and construct the relationship $\hat{\Sigma} - \Sigma$, which corresponds to the independence relationship. Correspondingly, DCT uses nodewise regression to construct $\hat{\Omega} - \Omega$, the conditional independence relationship.
+DCT is a conditional independence test specifically designed for the scenario which only discretized versions of variables are available. Specifically, DCT tries to recover the covariance matrix $\Sigma$ of the original continuous variables and construct the relationship $\hat{\Sigma} - \Sigma$, which corresponds to the independence relationship. Correspondingly, DCT uses nodewise regression to construct $\hat{\Omega} - \Omega$, the conditional independence relationship.
 
-## How to Install 
+## How to Install Required Packages 
 run the code 
 
 `conda env create -f environment.yml`
