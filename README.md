@@ -19,3 +19,9 @@ We provide two examples running the test in `example_to_use.ipynb` and running t
 Our core algorithm is implemented at `causal_learn.causallearn.utils.DisTestUtil.py`.
 
 
+## Faster and faster
+
+We will soon release the faster implementation of DCT in binary cases.
+
+
+
